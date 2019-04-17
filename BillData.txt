@@ -1,0 +1,9 @@
+Bill# 4088, Date: Mar 06,2018, Items Sold: 12, Bill Amount: 20.34
+Bill# 7920, Date: Mar 06,2018, Items Sold: 12, Bill Amount: 20.34
+Bill# 632, Date: Mar 06,2018, Items Sold: 12, Bill Amount: 20.34
+Bill# 2309, Date: Mar 06,2018, Items Sold: 12, Bill Amount: 20.34
+Bill# 2028, Date: Mar 06,2018, Items Sold: 66661, Bill Amount: 112993.22
+Bill# 5039, Date: Mar 06,2018, Items Sold: 34, Bill Amount: 230.52
+Bill# 7440, Date: Mar 06,2018, Items Sold: 45, Bill Amount: 96.62
+Bill# 1986, Date: Mar 06,2018, Items Sold: 58, Bill Amount: 82.72
+Bill# 3359, Date: Apr 05,2018, Items Sold: 0, Bill Amount: 0.00
